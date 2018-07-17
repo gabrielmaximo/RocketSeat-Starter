@@ -1,0 +1,12 @@
+O código contido no arquivo custom.css foi alterado para as necessidades da eXcript, porém, o mesmo, é um código baixado da Web e o autor e demais informações foram conservadas no cabeçalho do arquivo.
+
+INSTALAÇÃO
+
+Para alterar o tema do Jupyter/IPython, copia a pasta custom com o arquivo custom.css para: [
+
+WINDOWS
+C:\Users\<seus-nome>\.jupyter
+
+LINXU E MAC
+~\.jupyter
+
