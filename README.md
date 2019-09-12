@@ -8,7 +8,7 @@
 * axios
 
 ## To run task 01 and 02: 
-* just run index.html
+* just open index.html
 
 ## To run task 03: 
 just run the command: ```yarn``` to download dependencies. 
