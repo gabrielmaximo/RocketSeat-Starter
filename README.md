@@ -1,7 +1,8 @@
 # ES6 + JavaScript Course by [Rocket Seat](https://rocketseat.com.br/) 
 
-## Using:
+# This application require yarn installed, please installed yarn first to enjoy it.
 
+## This project use:
 * webpack
 * babel
 * axios
