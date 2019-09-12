@@ -2,9 +2,9 @@
 
 # This application require yarn installed, please installed yarn first to enjoy it.
 
-#### * Task 01 is a simple todo list implemented in html DOM by javascript and task02 is a continuation of task01 but implements a list of repositories that the user has in his github, using api.github.com/
+#### Task 01 is a simple todo list implemented in html DOM by javascript and task02 is a continuation of task01 but implements a list of repositories that the user has in his github, using api.github.com/
 
-#### * Task03 is a junction of all that was learned in task01 and task02 but in task03 there are more complex api requirements to list a specific user repository and avatar
+#### Task03 is a junction of all that was learned in task01 and task02 but in task03 there are more complex api requirements to list a specific user repository and avatar
 
 ## This project use:
 * webpack
